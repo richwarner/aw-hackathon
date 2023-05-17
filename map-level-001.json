@@ -1,0 +1,8 @@
+{
+    "map": [
+        ["grass", "grass", "tree", "water"],
+        ["water", "water", "grass", "tree"],
+        ["tree", "grass", "water", "grass"],
+        ["grass", "tree", "water", "water"]
+    ]
+}
